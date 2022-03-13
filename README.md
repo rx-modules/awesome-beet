@@ -24,7 +24,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 ## Plugins
 
 - [beet-ext](https://github.com/Arcensoth/beet-ext) - A variety of personal extensions and utilities for beet projects.
-- [Allay](https://github.com/DoubleF3lix/Allay) - A portable text parser allowing you to write expressive text components in a simplified, human readable format.
+- [Allay](https://github.com/DoubleF3lix/Allay) - A portable text parser allowing you to write expressive text components in a simplified, human readable format. Includes a beet and lectern plugin for use with beet eco.
 - [pigstep](https://github.com/vberlier/pigstep) - A beet plugin for importing Note Block Studio songs into Minecraft.
 
 
