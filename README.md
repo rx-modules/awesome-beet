@@ -26,13 +26,15 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [beet-ext](https://github.com/Arcensoth/beet-ext) - A variety of personal extensions and utilities for beet projects.
 - [Allay](https://github.com/DoubleF3lix/Allay) - A portable text parser allowing you to write expressive text components in a simplified, human readable format. Includes a beet and lectern plugin for use with beet eco.
 - [pigstep](https://github.com/vberlier/pigstep) - A beet plugin for importing Note Block Studio songs into Minecraft.
-
+- [babelbox](https://github.com/OrangeUtan/babelbox) - Write your language files as .csv to easily generate your translations, usable as a beet plugin.
+- [mc-anitexgen](https://github.com/OrangeUtan/mcanitexgen) - An animated texture generator for minecraft, usable as a beet plugin.
 
 
 ## Tools
 
 - [Beet Semantic](https://github.com/TheNuclearNexus/BeetSemantics/) - A VSCode extension to semantically syntax highlight bolt-based scripting.
 - [vscode-beet](https://github.com/mcbeet/vscode-beet) - Beet's VSCode extension.
+- [cookiecutter-beet](https://github.com/OrangeUtan/cookiecutter-beet) - Easily start a new project with a template!
 
 
 ## Projects
@@ -43,6 +45,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [PlayerDB](https://github.com/rx-modules/PlayerDB) - A Player Data Manager written using beet and lectern (and soon bolt).
 - [VVVVVV](https://github.com/Bentroen/VVVVVV-in-Minecraft) - A 1:1 recreation of VVVVVV in minecraft. Uses beet to interpet the game's source.
 - [Smithed Libraries](https://github.com/Smithed-MC/Libraries) - A minecraft all-in-one experience platform. Uses beet and bolt for build process for libraries.
+- [Hats](https://github.com/OrangeUtan/Hats) - +1 for adding hats. Uses beet!
 
 ## Misc
 
