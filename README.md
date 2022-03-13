@@ -42,8 +42,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [raycast-generator](https://help.sourceblock.net/beta/tools/data-packs/raycasting-generator) - A raycast datapack generator which produced in various formats (such as lectern).
 - [PlayerDB](https://github.com/rx-modules/PlayerDB) - A Player Data Manager written using beet and lectern (and soon bolt).
 - [VVVVVV](https://github.com/Bentroen/VVVVVV-in-Minecraft) - A 1:1 recreation of VVVVVV in minecraft. Uses beet to interpet the game's source.
-- [Smithed](https://smithed.dev/) - A minecraft all-in-one experience platform. Uses bolt for the automation of the platform's libraries.
-
+- [Smithed Libraries](https://github.com/Smithed-MC/Libraries) - A minecraft all-in-one experience platform. Uses beet and bolt for build process for libraries.
 
 ## Misc
 
