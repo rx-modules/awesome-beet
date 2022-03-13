@@ -46,7 +46,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [VVVVVV](https://github.com/Bentroen/VVVVVV-in-Minecraft) - A 1:1 recreation of VVVVVV in minecraft. Uses beet to interpet the game's source.
 - [Smithed Libraries](https://github.com/Smithed-MC/Libraries) - A minecraft all-in-one experience platform. Uses beet and bolt for build process for libraries.
 - [Hats](https://github.com/OrangeUtan/Hats) - +1 for adding hats. Uses beet!
-= [wind-shader](https://github.com/OrangeUtan/mc-wind-shader/) - A vanilla-based wind shader, built with beet.
+- [wind-shader](https://github.com/OrangeUtan/mc-wind-shader/) - A vanilla-based wind shader, built with beet.
 
 ## Misc
 
