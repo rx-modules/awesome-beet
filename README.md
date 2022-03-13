@@ -5,12 +5,12 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 
 # Table of Contents
 
-- [Official Projects](##official)
+- [Official Projects](#official)
 - [Hosted Tips and Tricks](resources)
-- [Plugins](##plugins)
-- [Tools](##tools)
-- [Projects/Examples](##Projects)
-- [Misc](##misc)
+- [Plugins](#plugins)
+- [Tools](#tools)
+- [Projects/Examples](#projects)
+- [Misc](#misc)
 
 
 ## Official
