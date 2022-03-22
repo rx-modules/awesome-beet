@@ -24,6 +24,8 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 ## Plugins
 
 - [beet-ext](https://github.com/Arcensoth/beet-ext) - A variety of personal extensions and utilities for beet projects.
+- [bolt-expressions](https://github.com/rx-modules/bolt-expressions) - A bolt plugin to help write mathematical and simplified expressions with a pandas-like syntax.
+- [gaia-beet](https://github.com/misode/gaia-beet) - A beet plugin to generate Minecraft worldgen files.
 - [Allay](https://github.com/DoubleF3lix/Allay) - A portable text parser allowing you to write expressive text components in a simplified, human readable format. Includes a beet and lectern plugin for use with beet eco.
 - [pigstep](https://github.com/vberlier/pigstep) - A beet plugin for importing Note Block Studio songs into Minecraft.
 - [babelbox](https://github.com/OrangeUtan/babelbox) - Write your language files as .csv to easily generate your translations, usable as a beet plugin.
