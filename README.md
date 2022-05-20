@@ -18,7 +18,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [Beet](https://github.com/mcbeet/beet) - The minecraft development kit providing a seemless way to automate your dev environment. Powers the entire beet ecosystem.
 - [Lectern](https://github.com/mcbeet/lectern) - Literate Minecraft data packs and resource packs. Allows you to create minecraft projects through the markdown format.
 - [Mecha](https://github.com/mcbeet/mecha) - A powerful command library with the tools to extend the default command structure.
-- [Bolt](https://github.com/mcbeet/mecha/tree/main/mecha/contrib/bolt) - A superpowered pythonic scripting language that compiles to mcfunction.
+- [Bolt](https://github.com/mcbeet/bolt) - A superpowered pythonic scripting language that compiles to mcfunction.
 
 
 ## Plugins
@@ -30,6 +30,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [pigstep](https://github.com/vberlier/pigstep) - A beet plugin for importing Note Block Studio songs into Minecraft.
 - [babelbox](https://github.com/OrangeUtan/babelbox) - Write your language files as .csv to easily generate your translations, usable as a beet plugin.
 - [mc-anitexgen](https://github.com/OrangeUtan/mcanitexgen) - An animated texture generator for minecraft, usable as a beet plugin.
+- [integrity](https://github.com/thewii/integrity) - A development toolkit for the bolt environment.
 
 
 ## Tools
@@ -49,6 +50,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [Smithed Libraries](https://github.com/Smithed-MC/Libraries) - A minecraft all-in-one experience platform. Uses beet and bolt for build process for libraries.
 - [Hats](https://github.com/OrangeUtan/Hats) - +1 for adding hats. Uses beet!
 - [wind-shader](https://github.com/OrangeUtan/mc-wind-shader/) - A vanilla-based wind shader, built with beet.
+- [Vanilla Tweaks](https://github.com/VanillaTweaks/packs) - Some of the vanillatweaks.net packs, built with bolt.
 
 ## Misc
 
