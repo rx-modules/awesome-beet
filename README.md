@@ -38,7 +38,7 @@ A curated repo of awesome resources and projects in the beet ecosystem! While mo
 - [Beet Semantic](https://github.com/TheNuclearNexus/BeetSemantics/) - A VSCode extension to semantically syntax highlight bolt-based scripting.
 - [vscode-beet](https://github.com/mcbeet/vscode-beet) - Beet's VSCode extension.
 - [cookiecutter-beet](https://github.com/OrangeUtan/cookiecutter-beet) - Easily start a new project with a template!
-
+- [minecraft-text-components](https://pypi.org/project/minecraft-text-components/) - Library to aid in manipulating text components!
 
 ## Projects
 
